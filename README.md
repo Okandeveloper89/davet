@@ -2,7 +2,7 @@
 bu ne ola ki? ;)) cyberchef diye birsey varmis, ne ise yariyor acaba?
 * aGEgbmUgYmFrdGluIGJpcmFkZXI/IGhheWlyZGlyPw==   
 ======================================================================
-### bu nedir?
+``` ### bu nedir?
 selam dostum, bu sitenin bir yerinde, bizim discord sunucusu icin ihtiyacin olan davet linki var.
 ### adam gibi linki versenize niye kastiriyorsunuz?
 e ne guzel iste, yeni bir eglence yeni bir bilmece yaptik, kotu mu ettik. hem zaten cok kolay... yaparsin...
@@ -21,4 +21,5 @@ twitch de yayina gelebilirsiniz (insta veya twitter dan duyuruyorum yayinlari) o
 
 umarim bu aciklama yeterli olmustur ;) sitem etmenize gerek yok, eglenmeye calisin lutfen.
 sevgiler,
+```
 
