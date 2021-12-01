@@ -2,8 +2,10 @@
 bu ne ola ki? ;)) cyberchef diye birsey varmis, ne ise yariyor acaba?
 * aGEgbmUgYmFrdGluIGJpcmFkZXI/IGhheWlyZGlyPw==   
 ======================================================================
-``` ### bu nedir?
+``` 
+### bu nedir?
 selam dostum, bu sitenin bir yerinde, bizim discord sunucusu icin ihtiyacin olan davet linki var.
+
 ### adam gibi linki versenize niye kastiriyorsunuz?
 e ne guzel iste, yeni bir eglence yeni bir bilmece yaptik, 
 kotu mu ettik. hem zaten cok kolay... yaparsin...
