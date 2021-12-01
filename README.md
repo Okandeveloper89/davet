@@ -1,6 +1,4 @@
-### davet
-bu ne ola ki? ;)) cyberchef diye birsey varmis, ne ise yariyor acaba?
-* aGEgbmUgYmFrdGluIGJpcmFkZXI/IGhheWlyZGlyPw==   
+
 ======================================================================
 ``` 
 ### bu nedir?
